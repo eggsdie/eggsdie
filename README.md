@@ -16,10 +16,3 @@ Here are some technologies and tools I work with:
 - **Tools & Platforms:** [Git, Docker, VS Code, Jupyter Notebooks]
 
 ---
-
-### 📊 GitHub Stats
-![Eddie's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eggsdie&show_icons=true&theme=default)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eggsdie&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
----
