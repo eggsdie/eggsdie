@@ -1,7 +1,5 @@
 # Hi there 👋 I'm Eddie Chen!
 ---
-
-### 🚀 About Me
 I'm currently a 19 year old studying Mathematics at the University of Toronto!
 ---
 
@@ -16,3 +14,4 @@ Here are some technologies and tools I work with:
 - **Tools & Platforms:** [Git, Docker, VS Code, Jupyter Notebooks]
 
 ---
+
