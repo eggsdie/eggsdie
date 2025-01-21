@@ -15,3 +15,4 @@ Here are some technologies and tools I work with:
 
 ---
 
+Check out my portfolio here: www.eddiechen.ca
